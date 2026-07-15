@@ -1,10 +1,6 @@
 
 ![Logo](https://github.com/Vandyaaa/bicture-app/blob/main/app/src/main/res/drawable/bicture_dark.png?raw=true)
 
-
-# 📸 Bicture
-
-Bicture adalah aplikasi galeri foto modern yang dirancang untuk memberikan pengalaman terbaik dalam mengelola dan membagikan foto. Dibangun menggunakan Java dan Firebase, aplikasi ini menghadirkan fitur interaktif yang memungkinkan pengguna untuk menyimpan, mengapresiasi, dan berinteraksi dengan foto secara lebih personal.
 ### 🛠 Teknologi yang Digunakan
 
 |              |                                                                 |
@@ -59,5 +55,4 @@ Kami selalu terbuka untuk saran dan kontribusi! Jika menemukan bug, beri tahu ka
 ### Authors 🎨🖌️
 
 - [@Firdhan Abivandya](https://www.github.com/Vandyaaa)
-- My Portofolio [Click](https://vandyaaa.github.io/saya/)
 
